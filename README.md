@@ -90,4 +90,4 @@ https://wwtn.lanzout.com/iQEvH2k79v3i
 
 ## Star历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=cuifengcn/TAICHI-flet&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=moshstudio/TAICHI-flet&type=Date)
