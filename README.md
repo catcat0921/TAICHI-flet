@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/cuifengcn/wechat-video-generate">
-    <img width="200" height="200" src="https://github.com/cuifengcn/TAICHI-flet/blob/main/taiji.png" alt="TAICHI-flet">
+  <a href="https://github.com/moshstudio/TAICHI-flet">
+    <img width="200" height="200" src="https://github.com/moshstudio/TAICHI-flet/blob/main/taiji.png" alt="TAICHI-flet">
   </a>
 </p>
 
@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="#下载">
-    <img src="https://img.shields.io/github/downloads/cuifengcn/TAICHI-flet/total?style=flat-square" alt="forks">
+    <img src="https://img.shields.io/github/downloads/moshstudio/TAICHI-flet/total?style=flat-square" alt="forks">
   </a>
-  <img src="https://img.shields.io/github/stars/cuifengcn/TAICHI-flet?style=flat-square" alt="stars">
-  <img src="https://img.shields.io/github/forks/cuifengcn/TAICHI-flet?style=flat-square" alt="forks">
+  <img src="https://img.shields.io/github/stars/moshstudio/TAICHI-flet?style=flat-square" alt="stars">
+  <img src="https://img.shields.io/github/forks/moshstudio/TAICHI-flet?style=flat-square" alt="forks">
 </p>
 
 ---
@@ -39,25 +39,25 @@ https://wwtn.lanzout.com/iQEvH2k79v3i
 
 1. 首页
 
-![首页](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/5969c1f1-c3c9-414b-a842-722df471fadb)
+![首页](https://github.com/moshstudio/TAICHI-flet/assets/38805177/5969c1f1-c3c9-414b-a842-722df471fadb)
 
 右上角可切换主题、进行全局个性化设置、显示热搜榜，点击左上角时间可使用默认壁纸。
 
 2. 观山——图片浏览，风景图、妹子图、二次元图等
    
-![观山](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/75c6da1f-27ef-4497-b78f-fa2f8a8a33a9)
+![观山](https://github.com/moshstudio/TAICHI-flet/assets/38805177/75c6da1f-27ef-4497-b78f-fa2f8a8a33a9)
 
 右下角可选择下载、设为壁纸、调整壁纸模糊度等。
 
 3. 听雨——音乐收藏、试听
 
-![听雨](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/dfb3de06-ea51-4474-a1e7-a314b888e7f8)
+![听雨](https://github.com/moshstudio/TAICHI-flet/assets/38805177/dfb3de06-ea51-4474-a1e7-a314b888e7f8)
 
 点击底部头像进入沉浸页，点击歌词打开桌面歌词。
 
 4. 修仙——小说搜索、阅读
 
-![修仙](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/a6b1aa65-64c3-436d-bc72-1bf0d47bfe07)
+![修仙](https://github.com/moshstudio/TAICHI-flet/assets/38805177/a6b1aa65-64c3-436d-bc72-1bf0d47bfe07)
 
 可选择加入书架，可选择听小说模式。
 
@@ -67,26 +67,26 @@ https://wwtn.lanzout.com/iQEvH2k79v3i
 
 6. 小站——资源、影视查找
 
-![小站](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/5ddeff61-9af0-45d2-9c00-e159dfbeb295)
+![小站](https://github.com/moshstudio/TAICHI-flet/assets/38805177/5ddeff61-9af0-45d2-9c00-e159dfbeb295)
 
 7. 览竹——动漫搜索、观看
 
-![览竹](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/51112fa4-4bd3-41e5-b3a1-22390554f8b9)
+![览竹](https://github.com/moshstudio/TAICHI-flet/assets/38805177/51112fa4-4bd3-41e5-b3a1-22390554f8b9)
 
 8. 论道——ChatGPT、AI绘画(高级功能)
 
-![论道](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/72cb7309-6db8-4e8e-bee1-9ec61adbcc73)
+![论道](https://github.com/moshstudio/TAICHI-flet/assets/38805177/72cb7309-6db8-4e8e-bee1-9ec61adbcc73)
 
-![论道2](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/f7d15b42-d45a-4683-b057-7b9966940e50)
+![论道2](https://github.com/moshstudio/TAICHI-flet/assets/38805177/f7d15b42-d45a-4683-b057-7b9966940e50)
 
 
 9. 宝库——几十种工具
 
-![宝库](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/535bb4a8-8992-4751-969a-089e8eae44df)
+![宝库](https://github.com/moshstudio/TAICHI-flet/assets/38805177/535bb4a8-8992-4751-969a-089e8eae44df)
 
 ## 关注公众号了解更多功能
 
-![image](https://github.com/cuifengcn/TAICHI-flet/assets/38805177/861e963c-4374-4232-921a-7d182c22729d)
+![image](https://github.com/moshstudio/TAICHI-flet/assets/38805177/861e963c-4374-4232-921a-7d182c22729d)
 
 ## Star历史
 
