@@ -25,11 +25,11 @@
  
 会持续更新
 
-## 最新版本(2025年06月09日)
+## 最新版本(2025年06月22日)
 
-为保证太极正常使用，请【安装3.1.1版本】
+为保证太极正常使用，请【安装3.1.2版本】
 
-电脑版《太极》3.1.1版本下载地址
+电脑版《太极》3.1.2版本下载地址
 
 [http://taichi.moshangwangluo.com/taichi.exe](http://taichi.moshangwangluo.com/taichi.exe)
 
